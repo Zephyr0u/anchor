@@ -5,6 +5,11 @@ dist/
 target/
 *~
 *.swp
+bin/
+node_modules/
+dist/
+.idea/
+target/
 *.swo
 .anchor
 test-ledger
